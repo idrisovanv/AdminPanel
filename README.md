@@ -1,5 +1,4 @@
 # Admin panel
-LP test task
 
 ## Run the app
 
